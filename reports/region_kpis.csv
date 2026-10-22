@@ -1,0 +1,7 @@
+region,stations,parcels,on_time_rate,parcels_per_courier_hour,cost_per_parcel,km_per_parcel,failed_attempt_rate
+Mountain Belt,3,240041,0.9566,3.62,8.257,0.54,0.0196
+West Valley,3,372228,0.9549,6.64,4.574,0.381,0.0135
+North Hub,4,738423,0.9514,7.08,4.349,0.415,0.015
+East Coast,5,999142,0.9347,7.62,4.146,0.494,0.0178
+Central City,6,1346942,0.9072,8.87,3.686,0.554,0.0199
+South Port,4,760845,0.8908,10.34,3.14,0.456,0.0163
