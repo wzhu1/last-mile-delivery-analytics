@@ -1,0 +1,26 @@
+station_id,region,couriers
+NO-01,North Hub,30
+NO-02,North Hub,35
+NO-03,North Hub,28
+NO-04,North Hub,36
+EA-01,East Coast,33
+EA-02,East Coast,23
+EA-03,East Coast,35
+EA-04,East Coast,35
+EA-05,East Coast,36
+CE-01,Central City,31
+CE-02,Central City,35
+CE-03,Central City,38
+CE-04,Central City,39
+CE-05,Central City,18
+CE-06,Central City,28
+WE-01,West Valley,18
+WE-02,West Valley,22
+WE-03,West Valley,29
+SO-01,South Port,23
+SO-02,South Port,29
+SO-03,South Port,20
+SO-04,South Port,19
+MO-01,Mountain Belt,26
+MO-02,Mountain Belt,26
+MO-03,Mountain Belt,30
